@@ -61,7 +61,7 @@ Connecting to /var/run/postgresql:5432 database testdb with user postgres...
 [WARN]    Increase shared_buffers and/or effective_cache_size to use more memory
 -----  Logs  -----
 [OK]      log_hostname is off : no reverse DNS lookup latency
-[WARN]    log of long queries is desactivated. It will be more difficult to optimize query performances
+[WARN]    log of long queries is deactivated. It will be more difficult to optimize query performances
 [OK]      log_statement=none
 -----  Two phase commit  -----
 [OK]      Currently no two phase commit transactions
